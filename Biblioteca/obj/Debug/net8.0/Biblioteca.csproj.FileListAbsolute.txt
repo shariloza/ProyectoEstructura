@@ -1,0 +1,22 @@
+D:\Docencia\Católica\Estructuras de Datos\Practicas\Biblioteca\bin\Debug\net8.0\Biblioteca.deps.json
+D:\Docencia\Católica\Estructuras de Datos\Practicas\Biblioteca\bin\Debug\net8.0\Biblioteca.dll
+D:\Docencia\Católica\Estructuras de Datos\Practicas\Biblioteca\bin\Debug\net8.0\Biblioteca.pdb
+D:\Docencia\Católica\Estructuras de Datos\Practicas\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docencia\Católica\Estructuras de Datos\Practicas\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+D:\Docencia\Católica\Estructuras de Datos\Practicas\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+D:\Docencia\Católica\Estructuras de Datos\Practicas\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Docencia\Católica\Estructuras de Datos\Practicas\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
+D:\Docencia\Católica\Estructuras de Datos\Practicas\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
+D:\Docencia\Católica\Estructuras de Datos\Practicas\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
+D:\Docencia\Católica\Estructuras de Datos\Practicas\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
+D:\__EstDD\C#\Biblioteca\bin\Debug\net8.0\Biblioteca.deps.json
+D:\__EstDD\C#\Biblioteca\bin\Debug\net8.0\Biblioteca.dll
+D:\__EstDD\C#\Biblioteca\bin\Debug\net8.0\Biblioteca.pdb
+D:\__EstDD\C#\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\__EstDD\C#\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+D:\__EstDD\C#\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+D:\__EstDD\C#\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+D:\__EstDD\C#\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
+D:\__EstDD\C#\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
+D:\__EstDD\C#\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
+D:\__EstDD\C#\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
