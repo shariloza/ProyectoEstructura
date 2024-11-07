@@ -1,0 +1,15 @@
+D:\ProyectoEstructura\ReservaVuelo\bin\Debug\net8.0\ReservaVuelo.exe
+D:\ProyectoEstructura\ReservaVuelo\bin\Debug\net8.0\ReservaVuelo.deps.json
+D:\ProyectoEstructura\ReservaVuelo\bin\Debug\net8.0\ReservaVuelo.runtimeconfig.json
+D:\ProyectoEstructura\ReservaVuelo\bin\Debug\net8.0\ReservaVuelo.dll
+D:\ProyectoEstructura\ReservaVuelo\bin\Debug\net8.0\ReservaVuelo.pdb
+D:\ProyectoEstructura\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectoEstructura\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.AssemblyInfoInputs.cache
+D:\ProyectoEstructura\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.AssemblyInfo.cs
+D:\ProyectoEstructura\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.csproj.CoreCompileInputs.cache
+D:\ProyectoEstructura\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.sourcelink.json
+D:\ProyectoEstructura\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.dll
+D:\ProyectoEstructura\ReservaVuelo\obj\Debug\net8.0\refint\ReservaVuelo.dll
+D:\ProyectoEstructura\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.pdb
+D:\ProyectoEstructura\ReservaVuelo\obj\Debug\net8.0\ReservaVuelo.genruntimeconfig.cache
+D:\ProyectoEstructura\ReservaVuelo\obj\Debug\net8.0\ref\ReservaVuelo.dll
